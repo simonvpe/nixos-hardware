@@ -6,6 +6,7 @@
       dell-aspire-4810t = import ./acer/aspire/4810t;
       asus-fx504gd = import ./asus/fx504gd;
       asus-zephyrus-ga401 = import ./asus/zephyrus/ga401;
+      asus-zenbook-ux371 = import ./asus/zenbook/ux371;
       apple-macbook-air-3 = import ./apple/macbook-air/3;
       apple-macbook-air-4 = import apple/macbook-air/4;
       apple-macbook-air-6 = import apple/macbook-air/6;
